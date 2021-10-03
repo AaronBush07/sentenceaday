@@ -1,2 +1,4 @@
 # sentenceaday
-A sentence a day
+A sentence a day.
+
+Learning React. 
