@@ -1,0 +1,3 @@
+export const NEW_SENTENCE = 'NEW_SENTENCE';
+export const FETCH_SENTENCES = 'FETCH_SENTENCES'
+export const ADD_SENTENCE = 'ADD_SENTENCE'
